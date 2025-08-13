@@ -1,5 +1,5 @@
 
-Build a secure, trauma-informed, multi-role web app designed for a stage 4 cancer patient (my mom, the client) and her caregiver (me). The app should combine serious medical tracking, diagnostic support tools, and lighthearted, engaging features that encourage daily use.
+Build a secure, trauma-informed, multi-role web app designed for a stage 4 cancer patient (my mom, the client) and her caregiver (me). The app should combine serious medical tracking, diagnostic support tools, and lighthearted, engaging features that encourage daily use. using SQL PHP HTML CSS AND JS with logs of graphics animations, colors, images,  model views, and adjusizable and customixable in the ssettings for all users
 
 Core Security & Access
 	•	Secure login, create account, forgot password — all as modal pop-ups.
