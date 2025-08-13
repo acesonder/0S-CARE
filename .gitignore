@@ -1,0 +1,87 @@
+# 0S-CARE .gitignore
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/*.log
+logs/*.txt
+!logs/.gitkeep
+
+# Uploaded Files
+uploads/*
+!uploads/.gitkeep
+!uploads/documents/.gitkeep
+
+# Temporary Files
+/tmp/*
+*.tmp
+*.temp
+
+# Configuration Overrides
+config/local.php
+config/production.php
+.env
+.env.local
+.env.production
+
+# Backup Files
+*.bak
+*.backup
+backup_*
+
+# Cache Files
+cache/*
+*.cache
+
+# Compiled Assets
+dist/
+build/
+
+# Node Modules (if using npm for frontend dependencies)
+node_modules/
+
+# Composer Dependencies (if using Composer)
+vendor/
+
+# Database Dumps
+*.sql.gz
+*.dump
+database_backup_*
+
+# Session Files
+sessions/*
+
+# Error Logs
+error.log
+php_errors.log
+
+# Personal Notes
+notes.txt
+todo.txt
+NOTES.md
+
+# Local Development
+local_settings.php
+
+# Security
+private_keys/
+certificates/
+*.pem
+*.key
+
+# PHPStorm
+.phpunit.result.cache
